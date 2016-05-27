@@ -89,7 +89,7 @@ public class RootExtrMain {
 		/* <------- '//*' to train.. '/*' to skip training 
 		// if you have the model already trained from 
 		// a previous run. the model can be found as 3 files
-		// with extension .model.
+		// with extension '.model'.
 		// 
 		// ===================================================
 		
