@@ -3,7 +3,7 @@ See [LICENSE](LICENSE) for licensing information.
 # AraRooter
 AraRooter is a Java program that uses Machine Learning, namely the infamous SVM algorithm, 
 to find the three-lettered root of any Arabic lemma with around 84% accuracy.
-The theoretical background of this project will be posted here soon.
+To learn more, refer to the [technical report](ararooter-report.pdf).
 
 To compile and run this project, import it in Eclipse or your IDE of choice that supports Eclipse projects.
 
